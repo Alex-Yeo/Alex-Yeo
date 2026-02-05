@@ -15,9 +15,9 @@ My dream is to win a World Series as the general manager of a Major League Baseb
 - C++
 - Lots of childhood Scratch projects!
 
-Currently working on starting up a personal github
-Currently learning applications and inner-workings of Artificial Intelligence
-Ask me about who I think will win the World Series this year
+- Currently working on starting up a personal github
+- Currently learning applications and inner-workings of Artificial Intelligence
+- Ask me about who I think will win the World Series this year
 
 <!--
 **Alex-Yeo/Alex-Yeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
