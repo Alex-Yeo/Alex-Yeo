@@ -8,7 +8,7 @@ My dream is to win a World Series as the general manager of a Major League Baseb
 
 - I'm currently working on starting up a personal github
 - I'm currently learning applications and inner-workings of Artificial Intelligence
-- How to reach me: through my [email](alexanderyeo809@gmail.com)
+- How to reach me: through my [email](mailto:alexanderyeo809@gmail.com)
 - Ask me about who I think will win the World Series this year
 
 <br>
